@@ -1,0 +1,11 @@
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\bin\Debug\netcoreapp2.1\домашкaф.deps.json
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\bin\Debug\netcoreapp2.1\домашкaф.runtimeconfig.json
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\bin\Debug\netcoreapp2.1\домашкaф.runtimeconfig.dev.json
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\bin\Debug\netcoreapp2.1\домашкaф.dll
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\bin\Debug\netcoreapp2.1\домашкaф.pdb
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\obj\Debug\netcoreapp2.1\домашкaф.csprojAssemblyReference.cache
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\obj\Debug\netcoreapp2.1\домашкaф.csproj.CoreCompileInputs.cache
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\obj\Debug\netcoreapp2.1\домашкaф.AssemblyInfoInputs.cache
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\obj\Debug\netcoreapp2.1\домашкaф.AssemblyInfo.cs
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\obj\Debug\netcoreapp2.1\домашкaф.dll
+C:\Users\Адё-пека\source\repos\домашкaф\домашкaф\obj\Debug\netcoreapp2.1\домашкaф.pdb
